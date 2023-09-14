@@ -1,0 +1,43 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #FFC6AC;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 5px 0 #EEEEEE;
+  font-size: 4rem;
+  color: #B31312;
+  text-align: center;
+}
+
+p {
+  font-size: 2rem;
+  color: #A73121;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img {
+  width: 50%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #A73121;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
